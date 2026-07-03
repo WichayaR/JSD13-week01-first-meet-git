@@ -10,7 +10,7 @@ const thaiDishes = [
         spiciness: 4, // 1 to 5 chili rating
         calories: 220,
         price: 250,
-        imageUrl: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&q=80&w=600",
+        imageUrl: "https://images.unsplash.com/photo-1613919517761-0d9e719d3244?auto=format&fit=crop&q=80&w=600",
         tags: ["Spicy", "Soup", "Seafood"]
     },
     {
@@ -21,7 +21,7 @@ const thaiDishes = [
         spiciness: 3,
         calories: 140,
         price: 95,
-        imageUrl: "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&q=80&w=600",
+        imageUrl: "https://images.unsplash.com/photo-1513903344377-1a0675a89467?auto=format&fit=crop&q=80&w=600",
         tags: ["Spicy", "Salad", "Healthy"]
     },
     {
@@ -32,7 +32,7 @@ const thaiDishes = [
         spiciness: 2,
         calories: 180,
         price: 150,
-        imageUrl: "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&q=80&w=600",
+        imageUrl: "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&q=80&w=600",
         tags: ["Mild", "Dip", "Pork"]
     },
     {
@@ -43,7 +43,7 @@ const thaiDishes = [
         spiciness: 5,
         calories: 260,
         price: 130,
-        imageUrl: "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?auto=format&fit=crop&q=80&w=600",
+        imageUrl: "https://images.unsplash.com/photo-1604152135912-04a022e23696?auto=format&fit=crop&q=80&w=600",
         tags: ["Very Spicy", "Stir-fried", "Pork"]
     },
     {
@@ -54,7 +54,7 @@ const thaiDishes = [
         spiciness: 1,
         calories: 450,
         price: 120,
-        imageUrl: "https://images.unsplash.com/photo-1559314809-0d155014e29e?auto=format&fit=crop&q=80&w=600",
+        imageUrl: "https://images.unsplash.com/photo-1568146244603-ea84f076d043?auto=format&fit=crop&q=80&w=600",
         tags: ["Noodle", "Seafood", "Street Food"]
     },
     {
@@ -65,7 +65,7 @@ const thaiDishes = [
         spiciness: 3,
         calories: 380,
         price: 160,
-        imageUrl: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&q=80&w=600",
+        imageUrl: "https://images.unsplash.com/photo-1646845347209-66380629554a?auto=format&fit=crop&q=80&w=600",
         tags: ["Spicy", "Noodle", "Chicken", "Curry"]
     }
 ];
