@@ -6,7 +6,7 @@ const dishDetails = {
         id: 1,
         nameTH: "ต้มยำกุ้งน้ำข้น",
         nameEN: "Tom Yum Goong",
-        imageUrl: "https://images.unsplash.com/photo-1613919517761-0d9e719d3244?auto=format&fit=crop&q=80&w=600",
+        imageUrl: "images/tom_yum.jpg",
         description: "แกงไทยยอดนิยมระดับโลก รสจัดจ้านโดดเด่นด้วยรสเปรี้ยว เค็ม เผ็ดร้อน หอมกลิ่นสมุนไพรสด เช่น ข่า ตะไคร้ และใบมะกรูด ผสมกับนมข้นจืดที่ทำให้น้ำซุปข้นกลมกล่อม",
         ingredients: [
             { name: "กุ้งแม่น้ำ (แกะเปลือก)", amount: 150, unit: "กรัม" },
@@ -47,7 +47,7 @@ const dishDetails = {
         id: 2,
         nameTH: "ส้มตำไทยไข่เค็ม",
         nameEN: "Som Tum (Papaya Salad with Salted Egg)",
-        imageUrl: "https://images.unsplash.com/photo-1513903344377-1a0675a89467?auto=format&fit=crop&q=80&w=600",
+        imageUrl: "images/som_tum.jpg",
         description: "ส้มตำไทยรสชาติครบรส เปรี้ยว หวาน เค็ม เผ็ดกำลังดี ผสมผสานความมันของไข่เค็มชั้นดีที่คลุกเคล้าเข้ากับมะละกอดิบขูดเส้นกรอบ ๆ มะเขือเทศ ถั่วฝักยาว และกุ้งแห้ง",
         ingredients: [
             { name: "มะละกอดิบขูดเส้น", amount: 100, unit: "กรัม" },
@@ -82,7 +82,7 @@ const dishDetails = {
         id: 3,
         nameTH: "น้ำพริกอ่องผักสด",
         nameEN: "Nam Prik Ong",
-        imageUrl: "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&q=80&w=600",
+        imageUrl: "images/nam_prik_ong.jpg",
         description: "น้ำพริกพื้นบ้านล้านนาที่มีรสชาติกลมกล่อมสามรส เปรี้ยวมะเขือเทศ เค็มหวานเผ็ดอ่อน ๆ คลุกเคล้าหมูสับและเครื่องพริกแกง เสิร์ฟพร้อมผักเคียงนานาชนิด",
         ingredients: [
             { name: "หมูบดติดมัน", amount: 120, unit: "กรัม" },
@@ -116,7 +116,7 @@ const dishDetails = {
         id: 4,
         nameTH: "คั่วกลิ้งหมูสับ",
         nameEN: "Khua Kling",
-        imageUrl: "https://images.unsplash.com/photo-1604152135912-04a022e23696?auto=format&fit=crop&q=80&w=600",
+        imageUrl: "images/khua_kling.jpg",
         description: "คั่วกลิ้งหมูสับ อาหารใต้รสเด็ดเผ็ดร้อนถึงใจ ผัดแห้งแห้งจนน้ำพริกแกงใต้สีเหลืองเข้มจากขมิ้นเคลือบหมูสับทุกอณู หอมกรุ่นด้วยตะไคร้สดและใบมะกรูดซอยฝอย",
         ingredients: [
             { name: "หมูสับละเอียด", amount: 150, unit: "กรัม" },
@@ -149,7 +149,7 @@ const dishDetails = {
         id: 5,
         nameTH: "ผัดไทยกุ้งสดห่อไข่",
         nameEN: "Pad Thai Goong Sod",
-        imageUrl: "https://images.unsplash.com/photo-1568146244603-ea84f076d043?auto=format&fit=crop&q=80&w=600",
+        imageUrl: "images/pad_thai.jpg",
         description: "อาหารประจำชาติสตรีทฟู้ดยอดนิยม เส้นจันทน์นุ่มเหนียว ผัดกับซอสผัดไทยรสอมเปรี้ยวอมหวานจากน้ำมะขามเปียก ห่อด้วยไข่เจียวแผ่นบางสวยงามน่ารับประทาน",
         ingredients: [
             { name: "เส้นจันทน์ (แช่น้ำ)", amount: 80, unit: "กรัม" },
@@ -184,7 +184,7 @@ const dishDetails = {
         id: 6,
         nameTH: "ข้าวซอยไก่โบราณ",
         nameEN: "Khao Soi Kai",
-        imageUrl: "https://images.unsplash.com/photo-1646845347209-66380629554a?auto=format&fit=crop&q=80&w=600",
+        imageUrl: "images/khao_soi.jpg",
         description: "บะหมี่แกงกะหรี่ภาคเหนือขนานแท้ น้ำซุปเข้มข้น หอมเครื่องแกงและกะทิ รสละมุนกลมกล่อม มีทั้งเส้นบะหมี่สุกนุ่มและเส้นบะหมี่ทอดกรอบด้านบน เสิร์ฟกับน่องไก่ตุ๋นจนเปื่อย",
         ingredients: [
             { name: "น่องไก่", amount: 1, unit: "ชิ้น" },
