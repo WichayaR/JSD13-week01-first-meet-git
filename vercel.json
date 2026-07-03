@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/:path*", "destination": "/week-01/first-meet-git/:path*" }
-  ]
-}
